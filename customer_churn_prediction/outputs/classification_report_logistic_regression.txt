@@ -1,0 +1,12 @@
+Logistic Regression
+Accuracy: 0.7250
+ROC-AUC: 0.7945
+
+              precision    recall  f1-score   support
+
+    No Churn       0.80      0.69      0.74       231
+       Churn       0.65      0.77      0.70       169
+
+    accuracy                           0.72       400
+   macro avg       0.73      0.73      0.72       400
+weighted avg       0.74      0.72      0.73       400

@@ -1,0 +1,5 @@
+Model comparison:
+  Logistic Regression: accuracy=0.7250, ROC-AUC=0.7945
+  Random Forest: accuracy=0.7350, ROC-AUC=0.7955
+
+Selected best model: Random Forest

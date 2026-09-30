@@ -1,0 +1,12 @@
+Random Forest
+Accuracy: 0.7350
+ROC-AUC: 0.7955
+
+              precision    recall  f1-score   support
+
+    No Churn       0.82      0.69      0.75       231
+       Churn       0.65      0.80      0.72       169
+
+    accuracy                           0.73       400
+   macro avg       0.74      0.74      0.73       400
+weighted avg       0.75      0.73      0.74       400
